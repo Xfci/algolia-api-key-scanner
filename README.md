@@ -2,9 +2,9 @@
 
 A security analysis and testing tool for Algolia API keys.
 
-[English 🇬🇧](#overview) | [Türkçe 🇹🇷](#genel-bakış)
+[![English](https://flagcdn.com/w40/gb.png)](#overview) | [![Türkçe](https://flagcdn.com/w40/tr.png)](#genel-bakış)
 
-## Overview 🇬🇧
+## Overview [!(https://flagcdn.com/w40/gb.png)]
 
 The Algolia API Key Scanner is a comprehensive tool designed to:
 
@@ -119,7 +119,7 @@ This tool is intended for legitimate security research and development purposes 
 
 Algolia API anahtarları için güvenlik analizi ve test aracı.
 
-## Genel Bakış 🇹🇷
+## Genel Bakış [!(https://flagcdn.com/w40/tr.png)]
 
 Algolia API Anahtar Tarayıcısı aşağıdaki işlevleri gerçekleştirmek üzere tasarlanmış kapsamlı bir araçtır:
 
