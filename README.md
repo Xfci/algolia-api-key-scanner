@@ -1,4 +1,4 @@
-# Algolia API Key Scanner [![logo](https://avatars.githubusercontent.com/u/2034458?s=200&v=4)]
+# Algolia API Key Scanner <img src="https://avatars.githubusercontent.com/u/2034458?s=200&v=4" alt="logo" width="100"/>
 
 A security analysis and testing tool for Algolia API keys.
 
