@@ -121,14 +121,14 @@ Algolia API anahtarları için güvenlik analizi ve test aracı.
 
 ## Genel Bakış [![Türkçe](https://flagcdn.com/w20/tr.png)](#genel-bakış)
 
-Algolia API Anahtar Tarayıcısı aşağıdaki işlevleri gerçekleştirmek üzere tasarlanmış kapsamlı bir araçtır:
+Algolia API Anahtar Tarayıcısı aşağıdaki işlevleri gerçekleştirmek üzere tasarlanmıştır:
 
 1. Algolia API anahtarlarıyla ilişkili izinleri analiz etmek
 2. Belirli bir anahtarla hangi işlemlerin gerçekten gerçekleştirilebileceğini test etmek
 3. Potansiyel güvenlik açıklarını (admin anahtarları gibi) belirlemek
 4. Algolia indeksleriyle çalışmak için etkileşimli bir arayüz sağlamak
 
-Bu araç, Algolia uygulamalarının güvenlik duruşunu doğrulamak veya güvenlik değerlendirmeleri sırasında keşfedilen API anahtarlarını analiz etmek isteyen güvenlik araştırmacıları, geliştiriciler ve sistem yöneticileri için kolaylık sağlar.
+Bu araç, Algolia uygulamalarının güvenliğini doğrulamak veya güvenlik değerlendirmeleri sırasında keşfedilen API anahtarlarını analiz etmek isteyen güvenlik araştırmacıları, geliştiriciler ve sistem yöneticileri için kolaylık sağlar.
 
 ## Özellikler
 
@@ -212,7 +212,7 @@ What do you want to do?
 
 ## Güvenlik Hususları
 
-- Araç, admin anahtarlarını "AÇIK" uyarısıyla açıkça vurgular
+- Araç, admin anahtarlarını "VULNERABLE" uyarısıyla açıkça vurgular
 - Yazma/silme izinlerine sahip API anahtarları uyarılarla işaretlenir
 - Bu aracı her zaman uygun yetkilendirme ile kullanın
 - Gerçek ortamlarda admin API anahtarlarını kullanırken dikkat edin
