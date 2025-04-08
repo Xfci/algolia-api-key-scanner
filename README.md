@@ -1,4 +1,4 @@
-# Algolia API Key Scanner
+# Algolia API Key Scanner [![Türkçe]([https://flagcdn.com/w20/gb.png](https://avatars.githubusercontent.com/u/2034458?s=200&v=4))](#overview)
 
 A security analysis and testing tool for Algolia API keys.
 
